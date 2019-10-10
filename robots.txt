@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kengeexae.bork.dog/sitemap.xml
